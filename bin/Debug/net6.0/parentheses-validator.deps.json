@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "parentheses-validator/1.0.0": {
+        "runtime": {
+          "parentheses-validator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "parentheses-validator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

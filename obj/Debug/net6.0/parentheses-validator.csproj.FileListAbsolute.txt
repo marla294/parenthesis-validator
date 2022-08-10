@@ -1,0 +1,15 @@
+/Users/marlaforeman/Documents/repos/parentheses-validator/bin/Debug/net6.0/parentheses-validator
+/Users/marlaforeman/Documents/repos/parentheses-validator/bin/Debug/net6.0/parentheses-validator.deps.json
+/Users/marlaforeman/Documents/repos/parentheses-validator/bin/Debug/net6.0/parentheses-validator.runtimeconfig.json
+/Users/marlaforeman/Documents/repos/parentheses-validator/bin/Debug/net6.0/parentheses-validator.dll
+/Users/marlaforeman/Documents/repos/parentheses-validator/bin/Debug/net6.0/parentheses-validator.pdb
+/Users/marlaforeman/Documents/repos/parentheses-validator/obj/Debug/net6.0/parentheses-validator.csproj.AssemblyReference.cache
+/Users/marlaforeman/Documents/repos/parentheses-validator/obj/Debug/net6.0/parentheses-validator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marlaforeman/Documents/repos/parentheses-validator/obj/Debug/net6.0/parentheses-validator.AssemblyInfoInputs.cache
+/Users/marlaforeman/Documents/repos/parentheses-validator/obj/Debug/net6.0/parentheses-validator.AssemblyInfo.cs
+/Users/marlaforeman/Documents/repos/parentheses-validator/obj/Debug/net6.0/parentheses-validator.csproj.CoreCompileInputs.cache
+/Users/marlaforeman/Documents/repos/parentheses-validator/obj/Debug/net6.0/parentheses-validator.dll
+/Users/marlaforeman/Documents/repos/parentheses-validator/obj/Debug/net6.0/refint/parentheses-validator.dll
+/Users/marlaforeman/Documents/repos/parentheses-validator/obj/Debug/net6.0/parentheses-validator.pdb
+/Users/marlaforeman/Documents/repos/parentheses-validator/obj/Debug/net6.0/parentheses-validator.genruntimeconfig.cache
+/Users/marlaforeman/Documents/repos/parentheses-validator/obj/Debug/net6.0/ref/parentheses-validator.dll
